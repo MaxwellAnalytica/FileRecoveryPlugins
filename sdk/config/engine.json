@@ -1,0 +1,11 @@
+{
+    "protocol": "https://maxwellanalytica.com/filecarver/protocol",
+    "scanners": [
+        {
+            "actived": true,
+            "description": "Multiple File Carver",
+            "format": "carver",
+            "version": "5.2.0"
+        }
+    ]
+}
